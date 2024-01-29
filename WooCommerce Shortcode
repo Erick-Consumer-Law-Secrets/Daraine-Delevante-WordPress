@@ -1,0 +1,8 @@
+/**************/
+LATEST PRODUCTS
+/**************/
+[products limit="8" columns="4" orderby="id" order="DESC" visibility="visible"]
+/**************/
+BEST SELLERS
+/**************/
+[products limit="8" columns="4" best_selling="true" ]
