@@ -1,0 +1,9 @@
+/* Change background color of Proceed to Checkout button to #ff0000 */
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+	background-color: #ff0000;
+}
+
+/* Change background color of Place Order button to #ff9900 */
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+	background-color: #ff0000;
+}
