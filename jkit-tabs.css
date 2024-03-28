@@ -1,0 +1,59 @@
+/* DO NOT TOUCH THIS CSS EVER This is coded by Erick Villeta */
+.woo-products-product-excerpt {display:none;}
+
+.woo-products-product-title {text-align: center !important;
+    color: #000000 !important;
+    font-size: 15px !important;
+    font-weight: 800 !important;
+    }
+    
+a {
+    background-color: transparent;
+    text-decoration: none;
+    color: #000 !important;
+}
+
+.woo-products-product-price {text-align: center !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    }
+    
+.elementor-15283 .elementor-element.elementor-element-da9c4ce.elementor-wc-products ul.products li.product .price ins .amount {
+    color: #ff0000 !important;
+}
+
+.elementor-15283 .elementor-element.elementor-element-da9c4ce.elementor-wc-products ul.products li.product .price {
+    color: #000 !important;}
+
+.woo-products-product-button
+{    text-align: center !important;
+}
+
+.woo-products-products .woo-products-product-button .button {
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    color: #000000 !important;
+    text-decoration: none;
+    background-color: #e9e6ed !important;
+    border-radius: 0 0 0 0 !important;
+    padding: 5px 10px 5px 10px !important;
+}
+
+.elementor-15287 .elementor-element.elementor-element-dbc9084 .woo-products-products .woo-products-product-price ins {
+    font-weight: 600 !important;
+    font-size: 16px;
+    color: #ff0000;
+}
+
+.elementor-15287 .elementor-element.elementor-element-dbc9084 .woo-products-products .woo-products-product-price del {
+    text-decoration: line-through;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.elementor-15283 .elementor-element.elementor-element-da9c4ce.elementor-wc-products ul.products li.product .woocommerce-loop-product__title {
+    color: #000000 !important;
+    font-size: 15px;
+    font-weight: 800;
+}
